@@ -31,6 +31,9 @@
         ],
         "keyword-spacing": [
             "error"
+        ],
+        "no-console": [
+            "off"
         ]
     }
 }
