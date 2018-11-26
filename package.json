@@ -16,7 +16,8 @@
     "url": "https://github.com/lukesilvia/nodestudy/issues"
   },
   "homepage": "https://github.com/lukesilvia/nodestudy#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^5.9.0"
   }
 }
