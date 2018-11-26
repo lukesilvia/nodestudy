@@ -28,6 +28,9 @@
         "space-in-parens": [
             "error",
             "always"
+        ],
+        "keyword-spacing": [
+            "error"
         ]
     }
 }
