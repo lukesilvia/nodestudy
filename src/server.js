@@ -1,7 +1,7 @@
 const http = require ( "http" );
 
 const start = () => {
-	let onRequest = ( request, response ) => {
+	const onRequest = ( request, response ) => {
 		console.log( "Request received." );
 		response.writeHead( 200, { "Content-Type": "text/plain" } );
 		response.write( "Hello, World" );
